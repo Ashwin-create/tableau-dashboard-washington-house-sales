@@ -1,5 +1,5 @@
 # tableau-dashboard-washington-house-sales
-An interactive tableau dashboard, for analysing average house price in King County,Washington having good view and good conditions, given filters (Year Built, Sqft Living, Sqft Lot) 
+An interactive user-friendly tableau dashboard, for analysing average house price in the King County,Washington having good view, and conditions, filtered via (Year Built, Sqft Living, Sqft Lot) parameters.
 
 ## The Live Tableau Public Dashboard's Link is down below: 
 
